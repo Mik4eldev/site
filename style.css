@@ -1,0 +1,101 @@
+body {
+    background: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #003366;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.hero {
+    background: #00509e;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.hero p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.sidebar {
+    background: #ff6600;
+    padding: 10px;
+    text-align: center;
+}
+
+.sidebar ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+main {
+    padding: 10px;
+}
+
+.news, .featured {
+    background: #fff;
+    border: 1px solid #003366;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.news h2, .featured h2 {
+    font-size: 20px;
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+article {
+    margin-bottom: 10px;
+}
+
+article h3 {
+    font-size: 18px;
+    color: #00509e;
+    margin-bottom: 5px;
+}
+
+.highlight {
+    background: #00509e;
+    color: white;
+    padding: 8px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+footer {
+    background: #003366;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 12px;
+}
